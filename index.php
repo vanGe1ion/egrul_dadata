@@ -21,7 +21,7 @@ function QueryDataElement($val, $quote = "'"){
 
 //$result = [];
 //try {
-//    $dadata = new Dadata("59b031fcf9b69382b9a691d91c059c09cd8672d0");
+//    $dadata = new Dadata("0000000000000000000000000000000000000000");
 //    $dadata->init();
 //
 //
